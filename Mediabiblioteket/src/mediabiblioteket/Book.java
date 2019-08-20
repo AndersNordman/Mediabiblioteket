@@ -1,7 +1,8 @@
 package mediabiblioteket;
-
+//Gittest
 public class Book extends Media
 {
+	String test;
 	String Author;
 
 	/**
